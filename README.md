@@ -1,5 +1,12 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br>- 🎓 Pursuing Integrated B.Tech (IT) + MBA at IIITM Gwalior  <br>- 📊 Interested in **Business Analysis, Data Analytics, and Product Thinking**  <br>- 📈 Experienced in transforming **complex and unstructured data into actionable business insights**  <br>- 🧠 Solved 450+ DSA problems | 3⭐ on HackerRank  <br>- 🏆 1st Runner-up – Business Case Study Competition  <br>- 🎯 Qualified GATE DA 2026 (Under 12K Rank)  <br>- 💻 Exploring opportunities in **Software Development and AI Engineering**
+## 👨‍💻 About Me<br>
+- 🎓 Pursuing Integrated B.Tech (IT) + MBA at IIITM Gwalior  <br>
+- 📊 Interested in **Business Analysis, Data Analytics, and Product Thinking**  <br>
+- 📈 Experienced in transforming **complex and unstructured data into actionable business insights**  <br>
+- 🧠 Solved 450+ DSA problems | 3⭐ on HackerRank  <br>
+- 🏆 1st Runner-up – Business Case Study Competition  <br>
+- 🎯 Qualified GATE DA 2026 (Under 12K Rank)  <br>
+- 💻 Exploring opportunities in **Software Development and AI Engineering**
 
 
 ## 🌐 Socials:

@@ -7,7 +7,11 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+    - main # Note: Change to 'master' if your default branch is master
+
+# REQUIRED: Grants the action permission to push to the output branch
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -18,7 +22,8 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # Hardcoded to your exact GitHub username
+          github_user_name: Yash-Padme
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

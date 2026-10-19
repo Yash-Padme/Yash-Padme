@@ -88,7 +88,6 @@
   <!-- <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Yash-Padme&icon=7&color=1" alt="Profile Views">
   </a> -->
-  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Yash-Padme/count.svg" alt="Profile Views" />
-</p>
+
+  <img src="https://komarev.com/ghpvc/?username=Yash-Padme&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </div>

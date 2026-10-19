@@ -31,15 +31,16 @@
 
 <br>
 
-## 👨‍💻 About Me
-- 🎓 Pursuing Integrated **B.Tech (IT) + MBA** at IIITM Gwalior (Final Year)
-- 📊 Interested in **Business Analysis, Data Analytics, and Product Thinking** 
-- 📈 Experienced in transforming complex and unstructured data into actionable business insights 
-- 🧠 Solved **450+ DSA problems** | 3⭐ on HackerRank 
-- 🏆 1st Runner-up – Business Case Study Competition 
-- 🎯 Qualified **GATE DA 2026** (Under 12K Rank) 
-- 💻 Exploring opportunities in **Software Development and AI Engineering**
 
+## 👨‍💻 About Me
+
+- 🎓 Pursuing Integrated **B.Tech (IT) + MBA** at IIITM Gwalior (2027 Batch)
+- 💻 Interested in **Software Engineering, Full-Stack Development, and AI Engineering**
+- ⚛️ Experienced in building web applications using **React, Next.js, Node.js, and TypeScript**
+- 🛠️ Built projects involving **REST APIs, database management, authentication, and GenAI integration**
+- 🧠 Solved **500+ coding problems** across LeetCode and CodeChef
+- 🏆 **Goldman Sachs India Hackathon 2026 Semi-Finalist** | GATE DA 2026 Qualified
+- 🚀 Passionate about building scalable applications that solve real-world problems through technology and product thinking
 <br>
 
 ## 💻 Tech Stack

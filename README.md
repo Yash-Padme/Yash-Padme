@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm Yash Padme!
 </h1>
-<h3 align="center">Software Engineer | Data Analyst | Product Enthusiast</h3>
+<h3 align="center">Software Engineer and Product Analyst</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="120" height="auto" alt="coding gif" />
@@ -85,7 +85,10 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
   <br><br>
-  <a href="https://visitcount.itsvg.in">
+  <!-- <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Yash-Padme&icon=7&color=1" alt="Profile Views">
-  </a>
+  </a> -->
+  <p align="center"> 
+  <img src="https://profile-counter.glitch.me/Yash-Padme/count.svg" alt="Profile Views" />
+</p>
 </div>

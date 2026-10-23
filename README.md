@@ -91,5 +91,4 @@
   </a> -->
 
   <img src="https://komarev.com/ghpvc/?username=Yash-Padme&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-      <img src="https://visitcount.itsvg.in/api?id=Yash-Padme&icon=7&color=1" alt="Profile Views">
 </div>
